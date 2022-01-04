@@ -1,0 +1,24 @@
+p.one {
+    border-style: solid;
+    border-color: #ff0000;
+}
+
+p.two {
+    border-style: solid;
+    border-color: #0000ff;
+}
+
+p.three {
+    border-style: solid;
+    border-color: #bbbbbb;
+}
+
+div.vidro {
+    background: rgba((255), 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+body {
+    background-image: url("luzes-na-noite-da-cidade-wallpaper-11469.jpg");
+}
