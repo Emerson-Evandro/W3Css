@@ -13,4 +13,5 @@ div {
     -webkit-backdrop-filter: blur(10px);
     border-radius: 20px;
     padding: 100px;
+    margin-top: 70px;
 }
