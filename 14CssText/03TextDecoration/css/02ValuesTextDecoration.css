@@ -1,0 +1,11 @@
+h2 {
+    text-decoration: overline;
+}
+
+h3 {
+    text-decoration: line-through;
+}
+
+h4 {
+    text-decoration: underline;
+}
