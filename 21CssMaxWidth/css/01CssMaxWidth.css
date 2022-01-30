@@ -1,0 +1,11 @@
+div.ex1 {
+    border: 3px solid #73AD21;
+    width: 500px;
+    margin: auto;
+}
+
+div.ex2 {
+    border: 3px solid #73AD21;
+    margin: auto;
+    max-width: 500px;
+}
