@@ -1,0 +1,17 @@
+div {
+    float: left;
+    padding: 15px;
+    margin-right: 5px;
+}
+
+.div1 {
+    background: red;
+}
+
+.div2 {
+    background: yellow;
+}
+
+.div3 {
+    background: green;
+}
