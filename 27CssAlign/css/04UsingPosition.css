@@ -1,0 +1,7 @@
+.right {
+    border: 3px solid #73AD21;
+    width: 300px; /*largura*/
+    padding: 10px;
+    right: 0px;
+    position: absolute;
+}
