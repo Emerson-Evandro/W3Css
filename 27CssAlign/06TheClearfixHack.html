@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The clearfix Hack</title>
+    <link rel="stylesheet" href="css/06theClearfixHack.css">
+</head>
+<body>
+    
+    <h2>without clearfix</h2>
+
+    <p>This image is floated to the right. It is also taller than the element containing it, so it overflows outside of its container: </p>
+
+    <div>
+        <img class="img1" src="pineapple.jpg" alt="Pineapple" width="170" height="170">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum error, sit suscipit quidem in eligendi dolores accusantium expedita dolor numquam magni aliquam consequuntur amet voluptatibus ullam repudiandae? Magnam, a suscipit.
+    </div>
+
+    <h2 style="clear:right">With New Mosern Clearfix</h2>
+    <p>Add the clearfix hack to the containing element, to fix this problem:</p>
+
+    <div class="clearfix">
+        <img class="img2" src="pineapple.jpg" alt="Pineapple" width="170" height="170">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus quia consectetur dicta corporis, ducimus officia enim dolore! Earum ipsa delectus est, nemo, repellat quidem accusantium quo id incidunt odio alias.
+    </div>
+</body>
+</html>
