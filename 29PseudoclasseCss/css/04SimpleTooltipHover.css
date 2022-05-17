@@ -1,0 +1,9 @@
+p {
+    background-color: yellow;
+    padding: 20px;
+    display: none;
+}
+
+div:hover p {
+    display: block;
+}
