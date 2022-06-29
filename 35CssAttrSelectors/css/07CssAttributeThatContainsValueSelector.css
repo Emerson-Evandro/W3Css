@@ -1,3 +1,3 @@
-[class*="te"] {
+[class*="te"] { /*selecionar elementos cujo valor de atributo contém um valor especificado*/
     background-color: yellow;
 }

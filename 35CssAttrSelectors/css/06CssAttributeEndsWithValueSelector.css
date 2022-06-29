@@ -1,4 +1,4 @@
-[class$="test"] {
+[class$="test"] { /*elementos cujo valor de atributo termina com um valor especificado*/
     color: white;
     background-color: green;
 }

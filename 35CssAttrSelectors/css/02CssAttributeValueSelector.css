@@ -9,5 +9,5 @@ a {
 }
 
 a[target=_blank] {
-    background-color: yellow;
+    background-color: yellow;/*Elemento  com um atributo especifico com um valor*/
 }
